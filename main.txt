@@ -1,2 +1,2 @@
 This is the main branch
-&quot;Изменение из ветки main&quot;
+Изменение из ветки
